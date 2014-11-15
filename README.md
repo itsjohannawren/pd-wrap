@@ -1,6 +1,8 @@
 pd-wrap
 =======
 
+WARNING! There are bound to be bugs as this is UNFINISHED! Use at your own risk!
+
 A "simple" wrapper for CLI applications that allows immediate incident creation
 in PagerDuty for failures or excessive run times.
 
